@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 from PIL import Image
-from tf_keras.models import load_model
+from tensorflow.keras.models import load_model
 import time
 
 st.set_page_config(page_title="PawClassify", page_icon="🐾", layout="wide")

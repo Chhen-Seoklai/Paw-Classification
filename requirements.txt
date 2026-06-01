@@ -1,6 +1,0 @@
-streamlit
-tensorflow-cpu
-numpy
-Pillow
-gdown
-h5py
