@@ -1,6 +1,6 @@
-streamlit
-tensorflow-cpu
+streamlit==1.58.0
+tensorflow==2.19.0
 numpy
 Pillow
-gdown
 h5py
+gdown
