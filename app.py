@@ -621,7 +621,7 @@ div[data-testid="stImage"] img {
 @st.cache_resource
 def load_classifier():
     try:
-        return load_model('cat_dog_best_model.h5'), None
+        return load_model('cat_dog_final_model.h5'), None
     except Exception as e:
         return None, str(e)
 
